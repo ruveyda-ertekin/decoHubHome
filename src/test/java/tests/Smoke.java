@@ -86,6 +86,6 @@ public class Smoke {
 //
 //        abstractComponent.scrollDownPage();
        // paymentPage.getPayNowClick;
-//hello
+//hello2
     }
 }
