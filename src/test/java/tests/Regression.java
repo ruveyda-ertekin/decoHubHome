@@ -1,4 +1,4 @@
 package tests;
 
-public class Regression {
+public class Regression {///test
 }
